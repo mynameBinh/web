@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Main_menu</title>
+<link rel="stylesheet" href="../MY_SELF/style.css">
+<script>
+    function changeh(){
+            window.location.href = "../bai_thuc_hanh/index.html"
+            }
+</script>
+</head>
+<body>
+
+    <div class="button" onclick="changeh()">
+        Click here!
+        
+    </div>
+    </body>
+</body>
+</html>
